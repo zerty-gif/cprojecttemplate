@@ -59,3 +59,24 @@ Go/No-Go decisions are evidence-based and documented for auditability.
 1. DL/EL/PO attempt resolution.
 2. Escalate to SC for decision.
 3. Document decision and rationale in the decision log.
+---
+title: "Governance Documentation"
+owner: "PMO"
+last_updated: "2025-01-15"
+version: "1.0"
+tags: ["governance", "lifecycle", "architecture"]
+---
+
+# Governance
+
+This section defines lifecycle governance, gate reviews, and the architectural guidance that governs delivery.
+
+## Pages
+
+- [Hybrid lifecycle and gates](lifecycle.md)
+- [Architecture and design patterns](architecture.md)
+
+## Related Sections
+
+- [Agile delivery overview](../agile/cREADME.md)
+- [Security overview](../security/cREADME.md)

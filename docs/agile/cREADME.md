@@ -40,3 +40,23 @@ A story is done when:
 - Changes to scope require PO approval.
 - Reprioritization happens during backlog refinement or sprint planning.
 - Emergency changes follow a documented expedited process.
+---
+title: "Agile Delivery Documentation"
+owner: "Agile Enablement"
+last_updated: "2025-01-15"
+version: "1.0"
+tags: ["agile", "scrum", "delivery"]
+---
+
+# Agile delivery
+
+This section covers Scrum cadence and the integration of sprint work within governance phases.
+
+## Pages
+
+- [Sprint-in-phase delivery flow](sprint-flow.md)
+
+## Related Sections
+
+- [Governance lifecycle](../governance/lifecycle.md)
+- [Security architecture](../security/secure-architecture.md)
